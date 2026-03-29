@@ -1,42 +1,29 @@
-# tsikrikas
+# 🚀 Customer Service Online - Acquisition System
 
-This template should help get you started developing with Vue 3 in Vite.
+A comprehensive online customer acquisition system built with modern web technologies, designed for maximum visibility and visitor conversion.
 
-## Recommended IDE Setup
+## 🛠 Technical Specifications
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+*   **Stack:** `Vue.js` 🟢
+*   **Stack:** `Leaflet` & `OpenStreetMap` 🗺️
+*   **Stack:** `JavaScript` ⚡
+*   **Stack:** `Responsive Design` 📱
+*   **Stack:** `CSS3` & `HTML5` 🎨
 
-## Recommended Browser Setup
+## ✨ Implementation Overview
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+*   **Website Development:** Implementation of a fast single-page website using Vue.js. 💎
+*   **UI Design:** Modern interface with animated service cards and structured sections. 🎨
+*   **Interactive Mapping:** Integration of Leaflet & OpenStreetMap with markers for Landshut and surrounding areas (60km radius). 📍
+*   **Interactive Elements:** Inclusion of 3D effects in the Hero Section and Floating Action Buttons (Phone & WhatsApp). 🧊
+*   **Technical Marketing:** Google Business Profile Setup, SEO optimization, and Google Reviews integration. ⭐
 
-## Type Support for `.vue` Imports in TS
+## 🎯 Objective
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+Boosting visibility on Google Maps and maximizing customer inquiries. 📈
 
-## Customize configuration
+## 🚀 Installation & Execution
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+1. Clone the repository:
+   ```bash
+   git clone https://github.com
